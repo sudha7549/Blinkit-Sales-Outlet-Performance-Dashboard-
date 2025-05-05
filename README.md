@@ -43,7 +43,6 @@ This project analyzes a simulated dataset inspired by **Blinkit**, India’s las
 - Aspiring Business Analysts
 - Power BI Learners
 - Students building real-world portfolio projects
-
 ---
 
 ## 💡 Note
